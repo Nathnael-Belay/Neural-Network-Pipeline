@@ -1,5 +1,5 @@
 # DATA
-DATA_FOLDER = 'dataset'
+DATA_FOLDER = '../dataset'
 
 # MODEL FITTING
 IMAGE_SIZE = 150 # 50 for testing, 150 for final model
